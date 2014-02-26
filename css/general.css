@@ -19,7 +19,8 @@ html {
 	text-size-adjust: 100%;
 
     font-size: 100%;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Geogia", sans-serif;
+    color: white;
     
     background-image: url(../images/legobackground.jpg);
 }
@@ -29,11 +30,27 @@ img {
     display: block;
 }
 
+
+header {
+    overflow: hidden;
+    background-color: black;
+}
+
 .billboard {
     overflow: hidden;
-    background-image: url(../images/enterprise.jpg); 
-    background-color: black;
+    background-image: url(../images/legoawesome.jpg); 
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 40rem;
+    background-size: 50rem;
 }
+
+h1 {
+    margin: 5rem 0;
+    font-weight: normal;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: .25rem 5%;
+    background-color: rgba(255, 215, 0, .8);
+}
+
+

@@ -107,6 +107,25 @@ h3 {
     font-size: 1.5rem;
 }
 
+.logo2 {
+    height: 4rem;
+    width: auto;
+    padding: .25rem 5%;
+}
+
+footer {
+    overflow: hidden;
+    background-color: black;
+}
+
+footer p {
+    color: white;
+    line-height: .5rem;
+}
+
+footer a{
+    color: yellow;
+}
 
 
 

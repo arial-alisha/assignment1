@@ -123,10 +123,13 @@ footer p {
     line-height: .5rem;
 }
 
-footer a{
+footer a {
     color: yellow;
 }
 
-
+footer p:last-child {
+    font-size: .1rem;
+    color: red;
+}
 
 
